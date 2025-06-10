@@ -497,7 +497,7 @@ game.StarterGui:SetCore("SendNotification", {
         end
         
         ps.PlayerAdded:Connect(p_added)
-))
+end)
 
 --[[ how esp works:
 
